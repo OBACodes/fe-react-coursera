@@ -1,0 +1,23 @@
+{
+	"name": "fe-react-coursera",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "webpack-dev-server --mode development"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/OBACodes/fe-react-coursera.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/OBACodes/fe-react-coursera/issues"
+	},
+	"homepage": "https://github.com/OBACodes/fe-react-coursera#readme",
+	"devDependencies": {
+		"lite-server": "^2.6.1"
+	}
+}
